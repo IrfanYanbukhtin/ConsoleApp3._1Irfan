@@ -1,0 +1,13 @@
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\bin\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.exe
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\bin\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.deps.json
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\bin\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.runtimeconfig.json
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\bin\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.runtimeconfig.dev.json
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\bin\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.dll
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\bin\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.pdb
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\obj\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\obj\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.AssemblyInfoInputs.cache
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\obj\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.AssemblyInfo.cs
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\obj\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.csproj.CoreCompileInputs.cache
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\obj\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.dll
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\obj\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.pdb
+C:\Users\irfanfy\source\repos\ConsoleApp3.1Irfan\ConsoleApp3.1Irfan\obj\Debug\netcoreapp3.1\ConsoleApp3.1Irfan.genruntimeconfig.cache
